@@ -49,9 +49,6 @@ To build the font files from the source, you can use the standard tools for font
     ```
     *(Note: If you are not using a config.yaml, you can run `fontmake -g sources/BHNastaliq.glyphs -o variable`)*
 
-## Contributing
-
-We welcome contributions! If you find issues with shaping, kerning, or missing glyphs, please open an issue in the GitHub Issue Tracker.
 
 ---
 **Copyright (c) 2025 The BH Nastaliq Project Authors.**
