@@ -1,0 +1,14 @@
+# BH Nastaliq Font Project
+The "BH Nastaliq" font is a project commissioned by **Beaconhouse School System**.
+The font was designed and developed by **MehrType (MehrType Foundry)**.
+
+# AUTHORS AND CONTRIBUTORS
+Beaconhouse
+Website: https://www.beaconhouse.net/
+Contact: info@beaconhouse.net
+
+# DEVELOPER / DESIGNER
+Mehrtype
+Website: https://mehrtype.com/
+Contact: mzishannasar@gmail.com
+
