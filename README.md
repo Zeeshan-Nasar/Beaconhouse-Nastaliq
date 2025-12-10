@@ -5,7 +5,6 @@
 **BH Nastaliq** is a contemporary Urdu typeface designed to bridge the gap between traditional calligraphy and modern digital requirements. Commissioned by **Beaconhouse** and engineered by **Mehr Type**, this font offers a sophisticated, high-performance Nastaliq solution for the web, publishing, and education.
 
 ![BH Nastaliq Sample](documentation/sample-image.png)
-*(Note: Please upload a sample image of your font to a 'documentation' folder and ensure the filename matches above)*
 
 ## About the Project
 
