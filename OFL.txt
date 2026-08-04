@@ -1,4 +1,4 @@
-Copyright 2025 The BH Nastaliq Project Authors (https://github.com/BSS-codeoutsourced/BH-Nastaliq-Font)
+Copyright 2026 The Beaconhouse Nastaliq Project Authors (https://github.com/BSS-codeoutsourced/Beaconhouse-Nastaliq)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
