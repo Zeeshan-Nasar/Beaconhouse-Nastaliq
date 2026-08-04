@@ -22,6 +22,14 @@ This project is a collaborative effort between:
     * Website: [https://mehrtype.com/](https://mehrtype.com/)
     * *Mehr Type is a premier type foundry specializing in Arabic and Urdu script engineering.*
 
+* **Project Lead & Engineering**
+      [Muhammad Zeeshan Nasar] (mzishannasar@gmail.com)
+      (Lead Font Developer, Mehr Type)
+
+* **Calligraphy & Design**
+      [Nasrullah Mehr]
+      (Calligraphy & Art Direction)
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
