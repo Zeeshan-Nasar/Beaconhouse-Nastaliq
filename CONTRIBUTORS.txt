@@ -1,5 +1,5 @@
 # CONTRIBUTORS
-# The following individuals contributed to the design and technical realization of BH Nastaliq.
+# The following individuals contributed to the design and technical realization of Beaconhouse Nastaliq.
 
 # Project Lead & Engineering
 Muhammad Zeeshan Nasar
