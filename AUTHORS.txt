@@ -1,5 +1,5 @@
 # COPYRIGHT HOLDERS
-# The following entities hold the copyright for the BH Nastaliq project.
+# The following entities hold the copyright for the Beaconhouse Nastaliq project.
 
 Beaconhouse
 https://www.beaconhouse.net/
