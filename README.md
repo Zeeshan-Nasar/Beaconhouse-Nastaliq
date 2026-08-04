@@ -34,6 +34,14 @@ This license is copied below, and is also available with a FAQ at:
 * `fonts/`: Contains the final binary font files (TTF/OTF).
 * `documentation/`: Contains images and promotional materials.
 
+## Changelog
+Beaconhouse Nastaliq Font
+
+04 August 2026. Version 1.00
+
+Very First version Official release.
+1 Stylistic set added.
+
 ## Building from Source
 
 To build the font files from the source, you can use the standard tools for font engineering.
