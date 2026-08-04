@@ -20,6 +20,8 @@ This dramatic reduction in glyph count was made possible by a custom **joining-g
 - **Full diacritic (اعراب) support** — proper positioning and rendering of Urdu diacritical marks.
 - **Built-in letter-joining education feature** — the glyphs are specially cut and shaped so that each letter's contribution to a joined word can be visually isolated. For example, in the word "نستعلیق," coloring each letter individually clearly shows where each character starts and ends within the joined form. This makes the font a practical tool for children learning how Urdu letters join together, simply by coloring or highlighting individual characters.
 
+![BH Nastaliq Sample](documentation/sample-image2.png)
+
 ## Authors and Contributors
 
 This project is a collaborative effort between:
