@@ -1,14 +1,14 @@
-# BH Nastaliq
+# Beaconhouse Nastaliq
 
 [![OFL](https://img.shields.io/badge/License-OFL%201.1-blue.svg)](https://scripts.sil.org/OFL)
 
-**BH Nastaliq** is a contemporary Urdu typeface designed to bridge the gap between traditional calligraphy and modern digital requirements. Commissioned by **Beaconhouse** and engineered by **Mehr Type**, this font offers a sophisticated, high-performance Nastaliq solution for the web, publishing, and education.
+**Beaconhouse Nastaliq** is a contemporary Urdu typeface designed to bridge the gap between traditional calligraphy and modern digital requirements. Commissioned by **Beaconhouse** and engineered by **Mehr Type**, this font offers a sophisticated, high-performance Nastaliq solution for the web, publishing, and education.
 
 ![BH Nastaliq Sample](documentation/sample-image.png)
 
 ## About the Project
 
-BH Nastaliq was developed to address the need for a legible, aesthetically pleasing Urdu font that performs well on screens of all sizes. Unlike traditional Nastaliq fonts that often suffer from complex rendering issues or slow load times, BH Nastaliq is optimized for the web without compromising the intricate beauty of the script.
+Beaconhouse Nastaliq was developed to address the need for a legible, aesthetically pleasing Urdu font that performs well on screens of all sizes. Unlike traditional Nastaliq fonts that often suffer from complex rendering issues or slow load times, Beaconhouse Nastaliq is optimized for the web without compromising the intricate beauty of the script.
 
 ## Authors and Contributors
 
@@ -51,4 +51,4 @@ To build the font files from the source, you can use the standard tools for font
 
 
 ---
-**Copyright (c) 2025 The BH Nastaliq Project Authors.**
+**Copyright (c) 2026 The Beaconhouse Nastaliq Project Authors.**
